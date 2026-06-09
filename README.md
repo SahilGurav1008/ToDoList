@@ -110,18 +110,6 @@ Open your browser and visit:
 http://localhost:5173
 ```
 
----
-
-## Roadmap
-
-- [ ] User Authentication
-- [ ] Task Categories & Tags
-- [ ] Calendar Integration
-- [ ] Pomodoro Timer
-- [ ] Task Notifications
-- [ ] Cloud Synchronization
-- [ ] AI Productivity Assistant
-- [ ] Advanced Analytics Dashboard
 
 ---
 
@@ -162,7 +150,6 @@ git commit -m "Add amazing feature"
 git push origin feature/amazing-feature
 ```
 
-5. Open a Pull Request
 
 
 ---
