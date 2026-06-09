@@ -165,11 +165,6 @@ git push origin feature/amazing-feature
 
 5. Open a Pull Request
 
----
-
-## License
-
-Distributed under the MIT License.
 
 ---
 
@@ -179,7 +174,7 @@ Distributed under the MIT License.
 
 Full Stack Developer • AI/ML Enthusiast • Researcher
 
-GitHub: https://github.com/your-github-username
+GitHub: https://github.com/SahilGurav1008
 
 ---
 
